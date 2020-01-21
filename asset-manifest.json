@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/quiz-game/static/css/main.91411888.chunk.css",
+    "main.js": "/quiz-game/static/js/main.b3fceff3.chunk.js",
+    "main.js.map": "/quiz-game/static/js/main.b3fceff3.chunk.js.map",
+    "runtime-main.js": "/quiz-game/static/js/runtime-main.8d5ec681.js",
+    "runtime-main.js.map": "/quiz-game/static/js/runtime-main.8d5ec681.js.map",
+    "static/js/2.47b7f7d2.chunk.js": "/quiz-game/static/js/2.47b7f7d2.chunk.js",
+    "static/js/2.47b7f7d2.chunk.js.map": "/quiz-game/static/js/2.47b7f7d2.chunk.js.map",
+    "index.html": "/quiz-game/index.html",
+    "precache-manifest.0854175b0ce4793479ae92df82c82fa0.js": "/quiz-game/precache-manifest.0854175b0ce4793479ae92df82c82fa0.js",
+    "service-worker.js": "/quiz-game/service-worker.js",
+    "static/css/main.91411888.chunk.css.map": "/quiz-game/static/css/main.91411888.chunk.css.map",
+    "static/js/2.47b7f7d2.chunk.js.LICENSE": "/quiz-game/static/js/2.47b7f7d2.chunk.js.LICENSE",
+    "static/media/arrow-down.svg": "/quiz-game/static/media/arrow-down.b31b1aee.svg",
+    "static/media/check.svg": "/quiz-game/static/media/check.21b6743e.svg",
+    "static/media/close.svg": "/quiz-game/static/media/close.017fbe80.svg",
+    "static/media/hourglass-1.svg": "/quiz-game/static/media/hourglass-1.ceb1eae4.svg",
+    "static/media/hourglass-2.svg": "/quiz-game/static/media/hourglass-2.76614856.svg",
+    "static/media/hourglass-3.svg": "/quiz-game/static/media/hourglass-3.e33852fa.svg",
+    "static/media/hourglass-o.svg": "/quiz-game/static/media/hourglass-o.03f40d3a.svg",
+    "static/media/sprite.svg": "/quiz-game/static/media/sprite.fc5da333.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d5ec681.js",
+    "static/js/2.47b7f7d2.chunk.js",
+    "static/css/main.91411888.chunk.css",
+    "static/js/main.b3fceff3.chunk.js"
+  ]
+}
