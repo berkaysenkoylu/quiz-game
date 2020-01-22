@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fcf0da2e4baad3e553b5ad5946bbb5c1",
+    "revision": "f53541e8beb6a5f8550fd0756e24c5bb",
     "url": "/quiz-game/index.html"
   },
   {
-    "revision": "d3b067add8fbb20236e8",
-    "url": "/quiz-game/static/css/main.91411888.chunk.css"
+    "revision": "4344a07ab72f8439b764",
+    "url": "/quiz-game/static/css/main.6434ec90.chunk.css"
   },
   {
-    "revision": "0bd9a4d5c01caa65eb33",
-    "url": "/quiz-game/static/js/2.47b7f7d2.chunk.js"
+    "revision": "370b71250c2f30e2ee06",
+    "url": "/quiz-game/static/js/2.e67be23e.chunk.js"
   },
   {
     "revision": "988f72b2c96c2e48ee691383a2ee3e9d",
-    "url": "/quiz-game/static/js/2.47b7f7d2.chunk.js.LICENSE"
+    "url": "/quiz-game/static/js/2.e67be23e.chunk.js.LICENSE"
   },
   {
-    "revision": "d3b067add8fbb20236e8",
-    "url": "/quiz-game/static/js/main.b3fceff3.chunk.js"
+    "revision": "4344a07ab72f8439b764",
+    "url": "/quiz-game/static/js/main.30bacbe6.chunk.js"
   },
   {
     "revision": "9f6ab27e221ffd1d4ab4",

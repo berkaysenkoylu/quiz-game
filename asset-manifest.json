@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/quiz-game/static/css/main.91411888.chunk.css",
-    "main.js": "/quiz-game/static/js/main.b3fceff3.chunk.js",
-    "main.js.map": "/quiz-game/static/js/main.b3fceff3.chunk.js.map",
+    "main.css": "/quiz-game/static/css/main.6434ec90.chunk.css",
+    "main.js": "/quiz-game/static/js/main.30bacbe6.chunk.js",
+    "main.js.map": "/quiz-game/static/js/main.30bacbe6.chunk.js.map",
     "runtime-main.js": "/quiz-game/static/js/runtime-main.8d5ec681.js",
     "runtime-main.js.map": "/quiz-game/static/js/runtime-main.8d5ec681.js.map",
-    "static/js/2.47b7f7d2.chunk.js": "/quiz-game/static/js/2.47b7f7d2.chunk.js",
-    "static/js/2.47b7f7d2.chunk.js.map": "/quiz-game/static/js/2.47b7f7d2.chunk.js.map",
+    "static/js/2.e67be23e.chunk.js": "/quiz-game/static/js/2.e67be23e.chunk.js",
+    "static/js/2.e67be23e.chunk.js.map": "/quiz-game/static/js/2.e67be23e.chunk.js.map",
     "index.html": "/quiz-game/index.html",
-    "precache-manifest.0854175b0ce4793479ae92df82c82fa0.js": "/quiz-game/precache-manifest.0854175b0ce4793479ae92df82c82fa0.js",
+    "precache-manifest.ded61bd954931a43bdcd7ef3b614e4cf.js": "/quiz-game/precache-manifest.ded61bd954931a43bdcd7ef3b614e4cf.js",
     "service-worker.js": "/quiz-game/service-worker.js",
-    "static/css/main.91411888.chunk.css.map": "/quiz-game/static/css/main.91411888.chunk.css.map",
-    "static/js/2.47b7f7d2.chunk.js.LICENSE": "/quiz-game/static/js/2.47b7f7d2.chunk.js.LICENSE",
+    "static/css/main.6434ec90.chunk.css.map": "/quiz-game/static/css/main.6434ec90.chunk.css.map",
+    "static/js/2.e67be23e.chunk.js.LICENSE": "/quiz-game/static/js/2.e67be23e.chunk.js.LICENSE",
     "static/media/arrow-down.svg": "/quiz-game/static/media/arrow-down.b31b1aee.svg",
     "static/media/check.svg": "/quiz-game/static/media/check.21b6743e.svg",
     "static/media/close.svg": "/quiz-game/static/media/close.017fbe80.svg",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8d5ec681.js",
-    "static/js/2.47b7f7d2.chunk.js",
-    "static/css/main.91411888.chunk.css",
-    "static/js/main.b3fceff3.chunk.js"
+    "static/js/2.e67be23e.chunk.js",
+    "static/css/main.6434ec90.chunk.css",
+    "static/js/main.30bacbe6.chunk.js"
   ]
 }
