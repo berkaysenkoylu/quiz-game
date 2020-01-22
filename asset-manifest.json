@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/quiz-game/static/css/main.6434ec90.chunk.css",
-    "main.js": "/quiz-game/static/js/main.30bacbe6.chunk.js",
-    "main.js.map": "/quiz-game/static/js/main.30bacbe6.chunk.js.map",
+    "main.css": "/quiz-game/static/css/main.2d6112ed.chunk.css",
+    "main.js": "/quiz-game/static/js/main.279db790.chunk.js",
+    "main.js.map": "/quiz-game/static/js/main.279db790.chunk.js.map",
     "runtime-main.js": "/quiz-game/static/js/runtime-main.8d5ec681.js",
     "runtime-main.js.map": "/quiz-game/static/js/runtime-main.8d5ec681.js.map",
     "static/js/2.e67be23e.chunk.js": "/quiz-game/static/js/2.e67be23e.chunk.js",
     "static/js/2.e67be23e.chunk.js.map": "/quiz-game/static/js/2.e67be23e.chunk.js.map",
     "index.html": "/quiz-game/index.html",
-    "precache-manifest.ded61bd954931a43bdcd7ef3b614e4cf.js": "/quiz-game/precache-manifest.ded61bd954931a43bdcd7ef3b614e4cf.js",
+    "precache-manifest.34fed4d3a1568dcffbc8593b493430b8.js": "/quiz-game/precache-manifest.34fed4d3a1568dcffbc8593b493430b8.js",
     "service-worker.js": "/quiz-game/service-worker.js",
-    "static/css/main.6434ec90.chunk.css.map": "/quiz-game/static/css/main.6434ec90.chunk.css.map",
+    "static/css/main.2d6112ed.chunk.css.map": "/quiz-game/static/css/main.2d6112ed.chunk.css.map",
     "static/js/2.e67be23e.chunk.js.LICENSE": "/quiz-game/static/js/2.e67be23e.chunk.js.LICENSE",
     "static/media/arrow-down.svg": "/quiz-game/static/media/arrow-down.b31b1aee.svg",
     "static/media/check.svg": "/quiz-game/static/media/check.21b6743e.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.8d5ec681.js",
     "static/js/2.e67be23e.chunk.js",
-    "static/css/main.6434ec90.chunk.css",
-    "static/js/main.30bacbe6.chunk.js"
+    "static/css/main.2d6112ed.chunk.css",
+    "static/js/main.279db790.chunk.js"
   ]
 }
